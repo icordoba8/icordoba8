@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I am currently working as a software engineer<br>⚡ I have experience working with Nodejs, Express,Nestjs, Nginx, React,Angular momgo, Postgresql,Docker<br>⚡ I am looking for a place or company where I can continually grow in my carreer 
+⚡ I am currently working as a software engineer<br>⚡ I have experience working with Nodejs, Express,Nestjs, Nginx, React,Angular momgo, Postgresql,Mysql,Sql-Server,Docker<br>⚡ I am looking for a place or company where I can continually grow in my carreer 
 
 
 ## 🌐 Socials:
